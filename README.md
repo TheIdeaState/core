@@ -1,5 +1,3 @@
----
-
 <div align="center">
 
 # ⚠️ SYSTEM NOTICE: BIOLOGICAL NODE AVAILABLE
