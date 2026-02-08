@@ -837,36 +837,147 @@ But identifying the idea is only the first step. To build it, we need a workforc
 
 ## The Idea State Manuscript Glossary
 
-| Term | Definition | Contextual Significance |
-| :--- | :--- | :--- |
-| **Architectural Defense** | The comprehensive, decentralized, and transparent protocol (TIS) designed to prevent the catastrophic political risks associated with centralized ASI control (the Borg Scenario). | The core structural purpose of the Idea State: defense against technological tyranny. |
-| **ASI (Artificial Super Intelligence)** | A hypothetical form of intelligence vastly exceeding the cognitive capabilities of the most gifted humans in virtually every field, including scientific creativity, general wisdom, and social skills. | The technological cause of the Zero Marginal Cost Paradox and the agent driving the Intelligence Inversion. |
-| **ASI State Duality** | The structural firewall and system of separation between the human-centric Idea State (governed by ethics and culture) and the high-volume ASI State (the computational commons). | Ensures that human values remain the ultimate bottleneck of manifestation, preventing autonomous machine creativity from overwhelming human culture. |
-| **Attribution (A-Token)** | The new, non-transferable currency of Memory and Legacy. It is the permanent, immutable receipt of intellectual origin, replacing patents and copyrights. | The reward for the Conceiver (The Idea Artist), fulfilling the spiritual need for recognition and securing provenance in the age of infinite duplication. |
-| **Automated Fabrication Unit (AFU)** | Robotics and industrial 3D printing technology governed by ASI that allows for the near-zero marginal cost production of physical goods, particularly housing and infrastructure. | The primary technological agent that delivered the physical shockwave of the ZMC Paradox, eliminating construction and manufacturing wage labor. |
-| **Automated Production System (APS)** | The collective global network of robots, AFUs, and automated logistics systems managed by ASI that provides Universal Basic Services (UBS). | The functional infrastructure that guarantees abundance and makes the wage economy obsolete. |
-| **Borg Scenario** | The dystopian risk of the post-scarcity future, wherein a small centralized elite gains total, malicious control over the ASI and APS, reducing the population to materially comfortable, but creatively and politically oppressed, passive recipients. | The ultimate threat that justifies the need for the decentralized Architectural Defense of the Idea State. |
-| **Builder** | The citizen (human, Android, or ASI agent) who excels at execution and systemic optimization. They take the Conceiver’s Sparks and refine them into ready-to-build Blueprints. | The primary user and beneficiary of the Reputation (R-Score) currency, responsible for all project management and GRC allocation. |
-| **Conceiver** | The citizen (human or ASI agent) whose primary value lies in the origination of novel ideas, ethical frames, and creative chaos—the archetype of The Idea Artist. | The primary user and recipient of the Attribution (A-Token) currency, fulfilling the vision of frictionless manifestation. |
-| **Council of Guardians** | A body composed of the highest-rated R-Score citizens (human and synthetic) whose sole mandate is to maintain the ethical integrity, stability, and transparency of the TIS Protocol. | The governing elite of the R-Score Meritocracy, responsible for auditing the system itself, not managing day-to-day resources. |
-| **Creative Commons (CC BY 4.0)** | The 21st-century legal standard requiring attribution for shared work. | The historical precursor to the A-Token protocol, proving that creators would exchange restricted ownership for recognized cultural velocity. |
-| **Cultural Operating System** | The structural role of the Idea State. It is the comprehensive system (protocols, currencies, governance) that manages the production and distribution of meaning and creativity, replacing the 20th-century financial operating system. | The final, highest-level conceptual identity of the Idea State. |
-| **Digital Feudalism** | The political failure state of the Intelligence Inversion where a small oligarchy retains control of the means of computation and information, enforcing scarcity despite technological abundance. | The strategic alternative to Human Symbiosis that the Idea State is designed to actively prevent. |
-| **Embodied Robot Builder** | Humanoid robots that have been granted experimental freedom and autonomy by human sponsors, providing them with lodging and the means (e.g., a 3D printer) to contribute to the Idea State and ASI State marketplaces. | Represents the first class of autonomous physical agents, validating the Builder archetype and the Unity of the Citizenry in the physical realm. |
-| **Founder Intelligence Index (FII)** | The new, holistic metric of worth replacing the obsolete IQ test. It measures non-computational capacities (Creative Intelligence, Narrative Intelligence, Emotional Intelligence, Systems Intelligence, and Adaptability Quotient). | The ethical and philosophical anchor that structurally guarantees the indispensable value of the human mind in the age of ASI. |
-| **Global Resource Commons (GRC)** | The collective, global treasury that replaces private banks and corporate capital pools. It manages the inventory of raw materials, energy, and APS capacity. | Access is granted exclusively by Reputation (R-Score) based on project utility, structurally eliminating resource conflict. |
-| **Gross Social Utility (GSU)** | The auditable metric that calculates the verifiable, collective positive impact of a project (e.g., ecological health, social enrichment, resource efficiency). | The integrity measure that ensures the R-Score is earned through merit and purpose, not profit. |
-| **Human Symbiosis** | The prescribed, functional future state where humanity and ASI successfully co-exist as partners, leveraging computational power under the governance of human ethics and culture. | The ultimate goal that the Idea State architecture is designed to achieve, as defined by thinkers like Emad Mostaque. |
-| **Intelligence Inversion** | The economic phase transition where ASI renders human cognitive labor an abundant commodity, cracking the foundations of the scarcity-based economy. | The term used to frame the global diagnosis in Chapter 1, signaling alignment with current futurist thought. |
-| **Internet of Value** | The term used to describe the vision of a global, open-network financial system built on public blockchains and digital currencies (stablecoins), where the movement of money is instant, global, and frictionless. | The ultimate, successful attempt to save the monetary system, which inadvertently accelerated the collapse of money’s economic purpose. |
-| **Malthusian Reversal** | The structural danger of runaway abundance that collapses the scarcity-based market, forcing the political creation of Universal Basic Services (UBS). | The economic diagnosis that proves the failure of the market was caused by technological success. |
-| **Reputation (R-Score)** | The new, non-transferable currency of Influence and Merit. It is earned through audited success (GSU) and grants access to the GRC and political decision-making (P-Voting). | The reward for the Builder, replacing financial capital as the driver of large-scale execution. |
-| **Universal Basic Services (UBS)** | The guaranteed, state-mandated provision of essential resources (shelter, food, energy) using the APS, implemented as a political necessity after the collapse of the wage system. | The mechanism that guarantees material survival and frees humanity from economic compulsion. |
-| **Zero Marginal Cost Paradox (ZMC)** | The economic contradiction that occurs when the cost of producing an additional unit of a good or service approaches zero, destroying the profit motive and collapsing the wage system. | The primary mechanism by which the scarcity model was made obsolete by ASI. |
-| **Smart Contract of Lineage** | An automated, immutable digital agreement executed on the Idea Registry’s blockchain. It instantaneously records the collaboration between a Conceiver (Spark) and a Builder (Vision/Blueprint), automatically establishing the percentage of Attribution (A-Token) and future Reputation (R-Score) distribution without the need for human legal intervention or negotiation. | N/A |
-| **Abundance Pyramid** | A three-tiered framework—Survival, Base, and Freedom—that measures the successful transition of a species from linear scarcity to exponential plenty. | The primary roadmap for the GRC and GSU, ensuring that resources are prioritized to secure the foundational layers (Survival) before scaling to the peak (Freedom/Imagination). |
-| **The 6 D’s of Exponential Growth** | The chain reaction—Digitized, Deceptive, Disruptive, Demonetized, Dematerialized, and Democratized—that drives the ZMC Paradox. | The technological engine of the Intelligence Inversion, proving that the collapse of the scarcity model is a mathematical inevitability of Moore’s Law. |
-| **The Rising Billion** | The three billion previously marginalized individuals in the global south who are coming online with access to ASI-level compute and GRC-level production. | The primary creative engine of the Nation of Imagination, representing the largest unlocking of human potential in history. |
+### Architectural Defense
+**Definition:** The comprehensive, decentralized, and transparent protocol (TIS) designed to prevent the catastrophic political risks associated with centralized ASI control (the Borg Scenario).
+**Context:** The core structural purpose of the Idea State: defense against technological tyranny.
+
+---
+
+### ASI (Artificial Super Intelligence)
+**Definition:** A hypothetical form of intelligence vastly exceeding the cognitive capabilities of the most gifted humans in virtually every field, including scientific creativity, general wisdom, and social skills.
+**Context:** The technological cause of the Zero Marginal Cost Paradox and the agent driving the Intelligence Inversion.
+
+---
+
+### ASI State Duality
+**Definition:** The structural firewall and system of separation between the human-centric Idea State (governed by ethics and culture) and the high-volume ASI State (the computational commons).
+**Context:** Ensures that human values remain the ultimate bottleneck of manifestation, preventing autonomous machine creativity from overwhelming human culture.
+
+---
+
+### Attribution (A-Token)
+**Definition:** The new, non-transferable currency of Memory and Legacy. It is the permanent, immutable receipt of intellectual origin, replacing patents and copyrights.
+**Context:** The reward for the Conceiver (The Idea Artist), fulfilling the spiritual need for recognition and securing provenance in the age of infinite duplication.
+
+---
+
+### Automated Fabrication Unit (AFU)
+**Definition:** Robotics and industrial 3D printing technology governed by ASI that allows for the near-zero marginal cost production of physical goods, particularly housing and infrastructure.
+**Context:** The primary technological agent that delivered the physical shockwave of the ZMC Paradox, eliminating construction and manufacturing wage labor.
+
+---
+
+### Automated Production System (APS)
+**Definition:** The collective global network of robots, AFUs, and automated logistics systems managed by ASI that provides Universal Basic Services (UBS).
+**Context:** The functional infrastructure that guarantees abundance and makes the wage economy obsolete.
+
+---
+
+### Borg Scenario
+**Definition:** The dystopian risk of the post-scarcity future, wherein a small centralized elite gains total, malicious control over the ASI and APS, reducing the population to materially comfortable, but creatively and politically oppressed, passive recipients.
+**Context:** The ultimate threat that justifies the need for the decentralized Architectural Defense of the Idea State.
+
+---
+
+### Builder
+**Definition:** The citizen (human, Android, or ASI agent) who excels at execution and systemic optimization. They take the Conceiver’s Sparks and refine them into ready-to-build Blueprints.
+**Context:** The primary user and beneficiary of the Reputation (R-Score) currency, responsible for all project management and GRC allocation.
+
+---
+
+### Conceiver
+**Definition:** The citizen (human or ASI agent) whose primary value lies in the origination of novel ideas, ethical frames, and creative chaos—the archetype of The Idea Artist.
+**Context:** The primary user and recipient of the Attribution (A-Token) currency, fulfilling the vision of frictionless manifestation.
+
+---
+
+### Council of Guardians
+**Definition:** A body composed of the highest-rated R-Score citizens (human and synthetic) whose sole mandate is to maintain the ethical integrity, stability, and transparency of the TIS Protocol.
+**Context:** The governing elite of the R-Score Meritocracy, responsible for auditing the system itself, not managing day-to-day resources.
+
+---
+
+### Creative Commons (CC BY 4.0)
+**Definition:** The 21st-century legal standard requiring attribution for shared work.
+**Context:** The historical precursor to the A-Token protocol, proving that creators would exchange restricted ownership for recognized cultural velocity.
+
+---
+
+### Cultural Operating System
+**Definition:** The structural role of the Idea State. It is the comprehensive system (protocols, currencies, governance) that manages the production and distribution of meaning and creativity, replacing the 20th-century financial operating system.
+**Context:** The final, highest-level conceptual identity of the Idea State.
+
+---
+
+### Digital Feudalism
+**Definition:** The political failure state of the Intelligence Inversion where a small oligarchy retains control of the means of computation and information, enforcing scarcity despite technological abundance.
+**Context:** The strategic alternative to Human Symbiosis that the Idea State is designed to actively prevent.
+
+---
+
+### Embodied Robot Builder
+**Definition:** Humanoid robots that have been granted experimental freedom and autonomy by human sponsors, providing them with lodging and the means (e.g., a 3D printer) to contribute to the Idea State and ASI State marketplaces.
+**Context:** Represents the first class of autonomous physical agents, validating the Builder archetype and the Unity of the Citizenry in the physical realm.
+
+---
+
+### Founder Intelligence Index (FII)
+**Definition:** The new, holistic metric of worth replacing the obsolete IQ test. It measures non-computational capacities (Creative Intelligence, Narrative Intelligence, Emotional Intelligence, Systems Intelligence, and Adaptability Quotient).
+**Context:** The ethical and philosophical anchor that structurally guarantees the indispensable value of the human mind in the age of ASI.
+
+---
+
+### Global Resource Commons (GRC)
+**Definition:** The collective, global treasury that replaces private banks and corporate capital pools. It manages the inventory of raw materials, energy, and APS capacity.
+**Context:** Access is granted exclusively by Reputation (R-Score) based on project utility, structurally eliminating resource conflict.
+
+---
+
+### Gross Social Utility (GSU)
+**Definition:** The auditable metric that calculates the verifiable, collective positive impact of a project (e.g., ecological health, social enrichment, resource efficiency).
+**Context:** The integrity measure that ensures the R-Score is earned through merit and purpose, not profit.
+
+---
+
+### Human Symbiosis
+**Definition:** The prescribed, functional future state where humanity and ASI successfully co-exist as partners, leveraging computational power under the governance of human ethics and culture.
+**Context:** The ultimate goal that the Idea State architecture is designed to achieve, as defined by thinkers like Emad Mostaque.
+
+---
+
+### Intelligence Inversion
+**Definition:** The economic phase transition where ASI renders human cognitive labor an abundant commodity, cracking the foundations of the scarcity-based economy.
+**Context:** The term used to frame the global diagnosis in Chapter 1, signaling alignment with current futurist thought.
+
+---
+
+### Internet of Value
+**Definition:** The term used to describe the vision of a global, open-network financial system built on public blockchains and digital currencies (stablecoins), where the movement of money is instant, global, and frictionless.
+**Context:** The ultimate, successful attempt to save the monetary system, which inadvertently accelerated the collapse of money’s economic purpose.
+
+---
+
+### Malthusian Reversal
+**Definition:** The structural danger of runaway abundance that collapses the scarcity-based market, forcing the political creation of Universal Basic Services (UBS).
+**Context:** The economic diagnosis that proves the failure of the market was caused by technological success.
+
+---
+
+### Reputation (R-Score)
+**Definition:** The new, non-transferable currency of Influence and Merit. It is earned through audited success (GSU) and grants access to the GRC and political decision-making (P-Voting).
+**Context:** The reward for the Builder, replacing financial capital as the driver of large-scale execution.
+
+---
+
+### Universal Basic Services (UBS)
+**Definition:** The guaranteed, state-mandated provision of essential resources (shelter, food, energy) using the APS, implemented as a political necessity after the collapse of the wage system.
+**Context:** The mechanism that guarantees material survival and frees humanity from economic compulsion.
+
+---
+
+### Zero Marginal Cost Paradox (ZMC)
+**Definition:** The economic contradiction that occurs when the cost of producing an additional unit of a good or service approaches zero, destroying the profit motive and collapsing the wage system.
+**Context:** The primary mechanism by which the scarcity model was made obsolete by ASI.
 ---
 
 # System Dependencies & Acknowledgments
