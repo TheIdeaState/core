@@ -685,7 +685,9 @@ Securing provenance and legacy is the baseline for a world where the only remain
 
 # Glossary of The Idea State
 
-This glossary defines the foundational terminology of the post-scarcity era. It serves as the definitive reference for Idea Artists, Builders, and Guardians navigating the transition from the Scarcity Model to the Cultural Operating System.
+This glossary defines the foundational terminology of the post-scarcity era. It serves as a reference for Idea Artists, Builders, and Guardians navigating the transition from the Scarcity Model to the Cultural Operating System.
+
+The terms defined herein describe conceptual primitives and illustrative architectures used throughout the manuscript. Where specific mechanisms are named, they represent possible implementations rather than immutable prescriptions, and remain subject to human judgment, consent, and revision.
 
 ## Core Economic & Philosophical Concepts
 
